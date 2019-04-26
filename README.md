@@ -1,2 +1,0 @@
-# RobotSample
-Created with CodeSandbox
